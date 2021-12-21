@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(17, 234, 227, 0.64);
+}
+
+.heading{
+    font-size: 25px;
+    width: 70%;
+}
+
+.nameofstuff{
+    font: size 20px;
+    color: rgb(241, 241, 247);
+}
